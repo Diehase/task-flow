@@ -16,8 +16,8 @@ A simple task management application to create, edit, and track tasks efficientl
 
 ## 🛠 Technologies Used
 
-rontend: React, CSS
-ackend: Node.js, Express (optional if using a server)
+Frontend: React, CSS
+Backend: Node.js, Express (optional if using a server)
 Storage: LocalStorage
 
 
